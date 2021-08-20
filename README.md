@@ -23,6 +23,6 @@ You can check them out via this websites
 
 # This other task prompt the user to enter their name and subsequently display the result
 
-![Task 2](https://github.com/electrosalaf/HNG-Android-/blob/master/kotlintask.JPG)
+![Task 2](https://github.com/electrosalaf/HNG-Android-/blob/master/kotlintask1.JPG)
 
 The kotlin code for this implementation can be checked here [here](https://github.com/electrosalaf/Stage-2/blob/master/src/main/kotlin/hellohng.kt)
