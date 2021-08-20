@@ -7,9 +7,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <!--this is the filled layout box for the edit text-->
-    <!--this layout must be used to reposition or change
-        the height and width of the edit text-->
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/filledTextField"
         android:layout_width="match_parent"
